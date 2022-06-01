@@ -1,0 +1,34 @@
+	body {
+		background-color:#F8E0E0; color : green;
+		margin-left : 40px; margin-right : 40px;
+	}
+	td,th {
+		color: blue;
+		text-align: center;
+		}
+#header {
+	width: 1280px;
+	height: 50px;
+	margin: 0 auto;
+	padding: 0 30px;
+}
+#menu {
+	background: pink;
+}
+#menu ul{
+	margin: 0;
+	padding: 0;
+	width: 567px;
+}
+#menu ul li{
+	display: inline-block;
+	list-style-type: none;
+	padding: 0px 15px;
+	}
+#menu ul li a{
+	color: white;
+	text-decoration: none;
+	}
+#menu ul li a:hover{
+	color: blue;
+	}
